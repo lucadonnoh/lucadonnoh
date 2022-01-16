@@ -4,7 +4,7 @@
 
 <p align="center">I like everything crypto-related: blockchains, proofs, logics, game theory and economics.</p>
 </p>
-<p align="center">I'm also a cryptoartist, mainly on <a href="https://knownorigin.io/donnoh">KnownOrigin</a>.</p>
+<p align="center">I'm also a <a href="https://masterpiece.so/artist/donnoh">cryptoartist</a>!</p>
 </p>
 
 <p align="center">
