@@ -16,6 +16,13 @@
   </a>
 </p>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=lucadonnoh&show_icons=true&theme=dracula&count_private=true&title_color=e4d8b4&bg_color=2e2e2e&icon_color=f9fad2" /></p>
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucadonnoh&layout=compact&show_icons=true&theme=dracula&count_private=true&title_color=e4d8b4&bg_color=2e2e2e&icon_color=f9fad2" />
+
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucadonnoh&show_icons=true&theme=dracula&count_private=true&title_color=e4d8b4&bg_color=2e2e2e&icon_color=f9fad2" />
+</p>
+
+
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucadonnoh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
