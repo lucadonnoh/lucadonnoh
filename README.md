@@ -2,7 +2,7 @@
 
 <p align="center"><b>Hi! I'm Luca Donno, a CS student at University of Bologna</b></p>
 
-<p align="center">I like everything crypto-related: blockchains, proofs, logics, game theory and economics.</p>
+<p align="center">I like blockchains and scalability solutions.</p>
 </p>
 <p align="center">I'm also a <a href="https://masterpiece.so/artist/donnoh">cryptoartist</a>!</p>
 </p>
