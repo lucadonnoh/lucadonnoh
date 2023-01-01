@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/donnoh_eth?tab=followers">
+  <a href="https://github.com/lucadonnoh?tab=followers">
     <img src="https://img.shields.io/github/followers/lucadonnoh?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/lucadonnoh">
-    <img src="https://img.shields.io/twitter/follow/lucadonnoh?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/donnoh_eth">
+    <img src="https://img.shields.io/twitter/follow/donnoh_eth?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
