@@ -1,6 +1,6 @@
 ![Eddie Jaoude](https://raw.githubusercontent.com/lucadonnoh/lucadonnoh/main/0x33d66941465ac776c38096cb1bc496c673ae7390.png)
 
-<p align="center"><b>Hi! I'm Luca Donno, a MSc CS student at University of Bologna</b></p>
+<p align="center"><b>Hi! I'm Luca Donno</b></p>
 
 <p align="center">I like blockchains and scalability solutions.</p>
 </p>
